@@ -1,5 +1,5 @@
-- Hi, I’m @llomj
-- I’m currently learning python
+- created in Juno for Jupiter notebook
+- simple python exercises to practice
 
 <!---
 llomj/llomj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
